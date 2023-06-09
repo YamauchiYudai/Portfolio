@@ -1,2 +1,2 @@
 # Portfolio
-[Portfolio website](https://YamauchiYudai.github.io/portfolio/)
+[Portfolio website](https://github.com/YamauchiYudai/Portfolio/blob/main/portfolio.html)
